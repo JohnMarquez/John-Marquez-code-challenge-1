@@ -6818,11 +6818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Revature\\John-Marquez-code-challenge-1\\Library\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Revature\\John-Marquez-code-challenge-1\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Revature\\John-Marquez-code-challenge-1\\Library\\UnitTest\\UnitTest.csproj",
+      "projectPath": "C:\\Revature\\John-Marquez-code-challenge-1\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Revature\\John-Marquez-code-challenge-1\\Library\\UnitTest\\obj\\",
+      "outputPath": "C:\\Revature\\John-Marquez-code-challenge-1\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6841,8 +6841,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Revature\\John-Marquez-code-challenge-1\\Library\\Library\\Library.csproj": {
-              "projectPath": "C:\\Revature\\John-Marquez-code-challenge-1\\Library\\Library\\Library.csproj"
+            "C:\\Revature\\John-Marquez-code-challenge-1\\Library\\Library.csproj": {
+              "projectPath": "C:\\Revature\\John-Marquez-code-challenge-1\\Library\\Library.csproj"
             }
           }
         }
